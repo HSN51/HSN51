@@ -1,5 +1,5 @@
 # Hi 👋, I'm Hasan Hüseyin Gümüştepe
-![unnamed](https://github.com/HSN51/hasanhuseyingumustepe/assets/116903648/228eda06-cabc-4c51-b0be-647ba7ff7dd5)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 - A passionate freelance software developer from Turkey
