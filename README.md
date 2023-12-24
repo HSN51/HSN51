@@ -5,6 +5,8 @@
 - A passionate freelance software developer from Turkey
 - 🌱 I’m currently learning Computer Vision
 - 📫 How to reach me hgumustepe1@gmail.com
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=HSN51&show_icons=true&theme=radical)
 
 Connect with me:
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/hasan-hüseyin-gümüştepe-374398253/)
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=HSN51&show_icons=true&theme=radical)
