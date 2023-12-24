@@ -9,6 +9,6 @@
 - ⚡ Fun fact: I love to swim 🏊‍♀️,, play basketball 🏀 and cycling 🚴‍♀️
 
 Connect with me:
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/hasan-hüseyin-gümüştepe-374398253/)
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="linkedin.com/in/hasan-hüseyin-gümüştepe-374398253/" />][linkedin]
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=HSN51&show_icons=true&theme=radical)
