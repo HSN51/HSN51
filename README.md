@@ -5,5 +5,6 @@
 - A passionate freelance software developer from Turkey
 - 🌱 I’m currently learning Computer Vision
 - 📫 How to reach me hgumustepe1@gmail.com
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
 
 Connect with me:
