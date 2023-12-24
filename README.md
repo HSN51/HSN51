@@ -11,7 +11,7 @@
 Connect with me:
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)]([link](https://medium.com/@hgumustepe1)) 
+
 <br />
 
 [gmail]: mailto:hgumustepe1@gmail.com
