@@ -9,14 +9,11 @@
 - ⚡ Fun fact: I love to swim 🏊‍♀️,, play basketball 🏀 and cycling 🚴‍♀️
 
 Connect with me:
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
+
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br />
 
-[bionluk]: https://bionluk.com/hasangumustepe
-[linkedin]:linkedin.com/in/hasan-hüseyin-gümüştepe-374398253/
 [medium]: https://medium.com/@hgumustepe1
 [gmail]: mailto:hgumustepe1@gmail.com
 <br />
