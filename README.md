@@ -1,4 +1,4 @@
-[! [MasterHead](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
+[![MasterHead](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Hasan Hüseyin Gümüştepe</h1>
 <h3 align="center">A passionate freelance software developer from Turkey</h3>
